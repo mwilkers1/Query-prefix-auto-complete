@@ -1,9 +1,3 @@
-/****************************
- * Matthew Wilkerson        *
- * CECS 503-50              *
- * Project 1                *
- ****************************/
-
 //node.cpp
 
 #include "node.h"
